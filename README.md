@@ -5,3 +5,5 @@ The program should write the reordered containers to a new ARXML file.
 ARXML stands for Autosar xml 
 #
 Autosar stands for AUTomotive Open System ARchitecture
+#
+Click on the test.bat to run and compile the code 
